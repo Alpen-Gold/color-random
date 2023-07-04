@@ -121,3 +121,9 @@ body {
     }
   }
 }
+
+@media screen and (max-width: 700px) {
+  #bg-card {
+    width: 300px;
+  }
+}
